@@ -1,0 +1,15 @@
+[submodule "GDP-RippleNet"]
+	path = GDP-RippleNet
+	url = https://github.com/Jessinra/GDP-RippleNet
+[submodule "RippleNet Original"]
+	path = RippleNet Original
+	url = https://github.com/Jessinra/GDP-RippleNet-Ori
+[submodule "Autorec original"]
+	path = Autorec original
+	url = https://github.com/Jessinra/GDP-Autorec-Ori
+[submodule "GDP-AutoRec"]
+	path = GDP-AutoRec
+	url = https://github.com/Jessinra/GDP-AutoRec
+[submodule "LightFM"]
+	path = LightFM
+	url = https://github.com/Jessinra/GDP-LightFM
